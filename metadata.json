@@ -1,0 +1,11 @@
+{
+  "name": "AI Math Tutor - Algebra & Calculus",
+  "description": "Step-by-step math solver and interactive tutor with paper scanning, video/voice/text guidance, PDF study sheets, and cloud sync.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
